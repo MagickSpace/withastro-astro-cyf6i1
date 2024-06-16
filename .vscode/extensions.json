@@ -1,4 +1,8 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
-  "unwantedRecommendations": []
+    "recommendations": [
+        "johnsoncodehk.volarjs-labs",
+        "vue.volar",
+        "astro-build.astro-vscode",
+        "bradlc.vscode-tailwindcss"
+    ]
 }
